@@ -9,7 +9,9 @@
       "fr": "Technologie",
       "id": "Teknologi",
       "tr": "Teknoloji",
-      "ur": "ٹیکنالوجی"
+      "ur": "ٹیکنالوجی",
+      "ru": "Технологии",
+      "zh": "科技"
     }
   },
   {
@@ -22,7 +24,9 @@
       "fr": "Nourriture et Boissons",
       "id": "Makanan dan Minuman",
       "tr": "Yiyecek ve İçecekler",
-      "ur": "کھانا اور مشروبات"
+      "ur": "کھانا اور مشروبات",
+      "ru": "Еда и напитки",
+      "zh": "食品和饮料"
     }
   },
   {
@@ -35,7 +39,9 @@
       "fr": "Vêtements",
       "id": "Pakaian",
       "tr": "Giysi",
-      "ur": "کپڑے"
+      "ur": "کپڑے",
+      "ru": "Одежда",
+      "zh": "服装"
     }
   }
 ]

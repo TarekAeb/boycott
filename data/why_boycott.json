@@ -9,7 +9,9 @@
       "fr": "Financement des Crimes de Guerre",
       "id": "Mendanai Kejahatan Perang",
       "tr": "Savaş Suçlarını Finanse Etmek",
-      "ur": "جنگی جرائم کی مالی معاونت"
+      "ur": "جنگی جرائم کی مالی معاونت",
+      "ru": "Финансирование военных преступлений",
+      "zh": "资助战争罪行"
     },
     "description": {
       "ar": "الولايات المتحدة تقدم مليارات الدولارات كمساعدات عسكرية لإسرائيل سنوياً، مما يمكّن قصف غزة وتدمير المنازل وقتل المدنيين، بما في ذلك آلاف الأطفال. مقاطعة منتجاتهم تحرم هذه الدورة من العنف من التمويل.",
@@ -19,7 +21,9 @@
       "fr": "Les États-Unis fournissent des milliards d'aide militaire à Israël chaque année, permettant le bombardement de Gaza, la destruction des maisons et le meurtre de civils, dont des milliers d'enfants. Boycotter leurs produits prive ce cycle de violence de financement.",
       "id": "AS memberikan miliaran bantuan militer kepada Israel setiap tahun, memungkinkan pemboman Gaza, penghancuran rumah, dan pembunuhan warga sipil, termasuk ribuan anak-anak. Memboikot produk mereka menghentikan pendanaan siklus kekerasan ini.",
       "tr": "ABD, İsrail'e her yıl milyarlarca dolarlık askeri yardım sağlayarak Gazze'nin bombalanmasına, evlerin yıkılmasına ve binlerce çocuk dahil sivil ölümlerine yol açıyor. Ürünlerini boykot etmek bu şiddet döngüsünü fonlamayı keser.",
-      "ur": "امریکہ اسرائیل کو سالانہ اربوں ڈالر کی فوجی امداد فراہم کرتا ہے، جس سے غزہ پر بمباری، گھروں کی تباہی اور ہزاروں بچوں سمیت شہریوں کے قتل کی راہ ہموار ہوتی ہے۔ ان کی مصنوعات کا بائیکاٹ اس تشدد کے چکر کو فنڈنگ سے محروم کرتا ہے۔"
+      "ur": "امریکہ اسرائیل کو سالانہ اربوں ڈالر کی فوجی امداد فراہم کرتا ہے، جس سے غزہ پر بمباری، گھروں کی تباہی اور ہزاروں بچوں سمیت شہریوں کے قتل کی راہ ہموار ہوتی ہے۔ ان کی مصنوعات کا بائیکاٹ اس تشدد کے چکر کو فنڈنگ سے محروم کرتا ہے۔",
+      "ru": "США ежегодно предоставляют Израилю миллиарды долларов военной помощи, что позволяет бомбить Газу, разрушать дома и убивать мирных жителей, включая тысячи детей. Бойкот их продукции лишает этот круг насилия финансирования.",
+      "zh": "美国每年向以色列提供数十亿美元的军事援助，使其能够轰炸加沙、摧毁房屋并杀害包括成千上万儿童在内的平民。抵制他们的产品可以切断这场暴力循环的资金。"
     }
   },
   {
@@ -32,7 +36,9 @@
       "fr": "Soutien à l'Apartheid",
       "id": "Mendukung Apartheid",
       "tr": "Apartheid Desteği",
-      "ur": "نسل پرستی کی حمایت"
+      "ur": "نسل پرستی کی حمایت",
+      "ru": "Поддержка апартеида",
+      "zh": "支持种族隔离"
     },
     "description": {
       "ar": "إسرائيل تفرض نظام فصل عنصري ضد الفلسطينيين، مع قوانين تمييزية وقمع عنيف. الشركات المدعومة من الولايات المتحدة تستفيد من هذا النظام. المقاطعة تضغط على الحكومات لإنهاء التواطؤ.",
@@ -42,7 +48,9 @@
       "fr": "Israël impose un système d'apartheid contre les Palestiniens, avec des lois discriminatoires et une oppression violente. Les entreprises soutenues par les États-Unis profitent de ce système. Les boycotts font pression sur les gouvernements pour qu'ils mettent fin à leur complicité.",
       "id": "Israel memberlakukan sistem apartheid terhadap warga Palestina, dengan hukum diskriminatif dan penindasan kekerasan. Korporasi yang didukung AS mengambil untung dari sistem ini. Boikot menekan pemerintah untuk menghentikan keterlibatan.",
       "tr": "İsrail, Filistinlilere karşı ayrımcı yasalar ve şiddetli baskı ile bir apartheid sistemi uyguluyor. ABD destekli şirketler bu sistemden kâr ediyor. Boykotlar, hükümetleri suç ortaklığını sona erdirmeye zorlar.",
-      "ur": "اسرائیل فلسطینیوں کے خلاف امتیازی قوانین اور پرتشدد جبر کے ساتھ ایک نسلی امتیاز کا نظام نافذ کرتا ہے۔ امریکی حمایت یافتہ کارپوریشنز اس نظام سے فائدہ اٹھاتی ہیں۔ بائیکاٹ حکومتوں پر دباؤ ڈالتے ہیں کہ وہ اس معاملے میں ملوث ہونے کو ختم کریں۔"
+      "ur": "اسرائیل فلسطینیوں کے خلاف امتیازی قوانین اور پرتشدد جبر کے ساتھ ایک نسلی امتیاز کا نظام نافذ کرتا ہے۔ امریکی حمایت یافتہ کارپوریشنز اس نظام سے فائدہ اٹھاتی ہیں۔ بائیکاٹ حکومتوں پر دباؤ ڈالتے ہیں کہ وہ اس معاملے میں ملوث ہونے کو ختم کریں۔",
+      "ru": "Израиль вводит систему апартеида против палестинцев, с дискриминационными законами и жестокими репрессиями. Корпорации, поддерживаемые США, извлекают из этого выгоду. Бойкоты оказывают давление на правительства, чтобы они прекратили соучастие.",
+      "zh": "以色列对巴勒斯坦人实行种族隔离制度，制定歧视性法律并进行暴力镇压。受美国支持的公司从中获利。抵制对政府施加压力，促使其结束共谋。"
     }
   },
   {
@@ -55,7 +63,9 @@
       "fr": "Complicité des Entreprises",
       "id": "Keterlibatan Korporasi",
       "tr": "Kurumsal Suç Ortaklığı",
-      "ur": "کارپوریٹ ملوثیت"
+      "ur": "کارپوریٹ ملوثیت",
+      "ru": "Соучастие корпораций",
+      "zh": "企业共谋"
     },
     "description": {
       "ar": "شركات كبرى تدعم القمع من خلال توفير الأسلحة وتقنيات المراقبة والبنية التحتية المستخدمة ضد الفلسطينيين. تجنب منتجاتها يحرم هذه المنظومة من التمويل.",
@@ -65,7 +75,9 @@
       "fr": "Les grandes entreprises soutiennent l'oppression en fournissant des armes, des technologies de surveillance et des infrastructures utilisées contre les Palestiniens. Éviter leurs produits prive ce système de financement.",
       "id": "Korporasi besar mendukung penindasan dengan memasok senjata, teknologi pengawasan, dan infrastruktur yang digunakan melawan warga Palestina. Menghindari produk mereka menghentikan pendanaan sistem kekerasan ini.",
       "tr": "Büyük şirketler, Filistinlilere karşı kullanılan silahları, gözetim teknolojilerini ve altyapıyı sağlayarak baskıyı destekliyor. Bu ürünlerden kaçınmak, şiddet sisteminin finansmanını keser.",
-      "ur": "بڑی کارپوریشنز فلسطینیوں کے خلاف استعمال ہونے والے ہتھیاروں، نگرانی کی ٹیکنالوجی اور انفراسٹرکچر کی فراہمی کے ذریعے ظلم کو ہوا دیتی ہیں۔ ان کی مصنوعات سے پرہیز اس نظامِ تشدد کو فنڈنگ سے محروم کرتا ہے۔"
+      "ur": "بڑی کارپوریشنز فلسطینیوں کے خلاف استعمال ہونے والے ہتھیاروں، نگرانی کی ٹیکنالوجی اور انفراسٹرکچر کی فراہمی کے ذریعے ظلم کو ہوا دیتی ہیں۔ ان کی مصنوعات سے پرہیز اس نظامِ تشدد کو فنڈنگ سے محروم کرتا ہے۔",
+      "ru": "Крупные корпорации подпитывают угнетение, поставляя оружие, технологии наблюдения и инфраструктуру, используемые против палестинцев. Избегая их продукции, можно прекратить финансирование этой системы насилия.",
+      "zh": "大型企业通过提供针对巴勒斯坦人的武器、监控技术和基础设施助长了压迫。避免购买他们的产品可以切断该暴力系统的资金。"
     }
   },
   {
@@ -78,7 +90,9 @@
       "fr": "Responsabilité Morale",
       "id": "Tanggung Jawab Moral",
       "tr": "Ahlaki Sorumluluk",
-      "ur": "اخلاقی ذمہ داری"
+      "ur": "اخلاقی ذمہ داری",
+      "ru": "Моральная ответственность",
+      "zh": "道德责任"
     },
     "description": {
       "ar": "كمواطنين عالميين، يجب أن نرفض تمويل الفظائع. المقاطعة هي أداة غير عنيفة للمطالبة بالمساءلة والوقوف مع ناجي غزة.",
@@ -88,7 +102,9 @@
       "fr": "En tant que citoyens du monde, nous devons refuser de financer les atrocités. Le boycott est un outil non violent pour exiger des comptes et se tenir aux côtés des survivants de Gaza.",
       "id": "Sebagai warga global, kita harus menolak mendanai kekejaman. Boikot adalah alat tanpa kekerasan untuk menuntut pertanggungjawaban dan berdiri bersama penyintas Gaza.",
       "tr": "Küresel vatandaşlar olarak, vahşeti finanse etmeyi reddetmeliyiz. Boykot, hesap verme talep etmenin ve Gazze'nin hayatta kalanlarının yanında durmanın şiddet içermeyen bir aracıdır.",
-      "ur": "عالمی شہریوں کے طور پر، ہمیں ظلم کی مالی معاونت سے انکار کرنا چاہیے۔ بائیکاٹ جوابدہی کا مطالبہ کرنے اور غزہ کے زندہ بچ جانے والوں کے ساتھ کھڑے ہونے کا ایک غیر تشددی ذریعہ ہے۔"
+      "ur": "عالمی شہریوں کے طور پر، ہمیں ظلم کی مالی معاونت سے انکار کرنا چاہیے۔ بائیکاٹ جوابدہی کا مطالبہ کرنے اور غزہ کے زندہ بچ جانے والوں کے ساتھ کھڑے ہونے کا ایک غیر تشددی ذریعہ ہے۔",
+      "ru": "Как граждане мира, мы обязаны отказаться от финансирования зверств. Бойкот — это ненасильственный инструмент для требования ответственности и поддержки выживших в Газе.",
+      "zh": "作为全球公民，我们必须拒绝为暴行提供资金。抵制是一种非暴力的工具，用于要求问责并与加沙的幸存者站在一起。"
     }
   },
   {
@@ -101,7 +117,9 @@
       "fr": "Le Pouvoir du Peuple en Action",
       "id": "Kekuatan Rakyat",
       "tr": "Halkın Gücü İşe Yarıyor",
-      "ur": "عوامی طاقت کام کرتی ہے"
+      "ur": "عوامی طاقت کام کرتی ہے",
+      "ru": "Сила народа работает",
+      "zh": "人民的力量有效"
     },
     "description": {
       "ar": "عندما تفشل الحكومات في التصرف، يستطيع المواطنون العالميون إجبار التغيير عبر الضغط الاقتصادي. نجحت المقاطعات تاريخيًا في إنهاء الفصل العنصري بجنوب أفريقيا ودعم حركة الحقوق المدنية الأمريكية.",
@@ -111,7 +129,9 @@
       "fr": "Lorsque les gouvernements échouent à agir, les citoyens du monde peuvent forcer le changement par la pression économique. Les boycotts ont historiquement réussi à mettre fin à l'apartheid sud-africain et à soutenir le mouvement américain des droits civiques.",
       "id": "Ketika pemerintah gagal bertindak, warga global dapat memaksa perubahan melalui tekanan ekonomi. Boikot secara historis berhasil mengakhiri apartheid di Afrika Selatan dan mendukung gerakan hak sipil Amerika.",
       "tr": "Hükümetler harekete geçmezse, küresel vatandaşlar ekonomik baskı yoluyla değişimi zorlayabilir. Boykotlar tarihsel olarak Güney Afrika apartheid'ını sona erdirmede ve Amerikan sivil haklar hareketini desteklemede başarılı oldu.",
-      "ur": "جب حکومتیں ناکام ہو جاتی ہیں، تو عالمی شہری معاشی دباؤ کے ذریعے تبدیلی لا سکتے ہیں۔ تاریخی طور پر بائیکاٹ جنوبی افریقہ کی نسلی علیحدگی کو ختم کرنے اور امریکی شہری حقوق کی تحریک کی حمایت میں کامیاب رہے ہیں۔"
+      "ur": "جب حکومتیں ناکام ہو جاتی ہیں، تو عالمی شہری معاشی دباؤ کے ذریعے تبدیلی لا سکتے ہیں۔ تاریخی طور پر بائیکاٹ جنوبی افریقہ کی نسلی علیحدگی کو ختم کرنے اور امریکی شہری حقوق کی تحریک کی حمایت میں کامیاب رہے ہیں۔",
+      "ru": "Когда правительства бездействуют, мировые граждане могут добиться перемен с помощью экономического давления. Бойкоты исторически помогли положить конец апартеиду в Южной Африке и поддержать движение за гражданские права в США.",
+      "zh": "当各国政府无所作为时，全球公民可以通过经济压力推动变革。历史上，抵制运动成功地结束了南非的种族隔离制度，并支持了美国的民权运动。"
     }
   },
   {
@@ -124,7 +144,9 @@
       "fr": "Pression pour un Avenir Juste",
       "id": "Tekanan untuk Masa Depan yang Adil",
       "tr": "Adil Bir Gelecek İçin Baskı",
-      "ur": "منصفانہ مستقبل کے لیے دباؤ"
+      "ur": "منصفانہ مستقبل کے لیے دباؤ",
+      "ru": "Давление ради справедливого будущего",
+      "zh": "为公正的未来施加压力"
     },
     "description": {
       "ar": "كل دولار ننفقه هو تصويت للعالم الذي نريده. من خلال حرمان الشركات المتواطئة من الأرباح، نخلق حافزًا اقتصاديًا لإنهاء الاحتلال وبناء سلام حقيقي يقوم على العدل.",
@@ -134,7 +156,9 @@
       "fr": "Chaque dollar que nous dépensons est un vote pour le monde que nous voulons. En privant les entreprises complices de profits, nous créons une incitation économique à mettre fin à l'occupation et à bâtir une paix réelle fondée sur la justice.",
       "id": "Setiap dolar yang kita belanjakan adalah suara untuk dunia yang kita inginkan. Dengan menghilangkan keuntungan dari korporasi yang terlibat, kami menciptakan insentif ekonomi untuk mengakhiri pendudukan dan membangun perdamaian nyata berdasarkan keadilan.",
       "tr": "Harcadığımız her dolar, istediğimiz dünya için bir oydur. Suç ortağı şirketleri kârdan mahrum bırakarak, işgali sona erdirmek ve adalete dayalı gerçek bir barış inşa etmek için ekonomik bir teşvik yaratıyoruz.",
-      "ur": "ہم جو رقم خرچ کرتے ہیں وہ اس دنیا کے لیے ایک ووٹ ہے جس کی ہم خواہش رکھتے ہیں۔ ملوث کارپوریشنز کو منافع سے محروم کرکے، ہم قبضہ ختم کرنے اور انصاف پر مبنی حقیقی امن قائم کرنے کا معاشی محرک پیدا کرتے ہیں۔"
+      "ur": "ہم جو رقم خرچ کرتے ہیں وہ اس دنیا کے لیے ایک ووٹ ہے جس کی ہم خواہش رکھتے ہیں۔ ملوث کارپوریشنز کو منافع سے محروم کرکے، ہم قبضہ ختم کرنے اور انصاف پر مبنی حقیقی امن قائم کرنے کا معاشی محرک پیدا کرتے ہیں۔",
+      "ru": "Каждый потраченный доллар — это голос за тот мир, который мы хотим видеть. Лишая соучастников прибыли, мы создаем экономический стимул для прекращения оккупации и построения настоящего мира на основе справедливости.",
+      "zh": "我们花的每一美元，都是对我们希望拥有的世界的一票。通过让共谋企业失去利润，我们创造了结束占领、建立以公正为基础的真正和平的经济动力。"
     }
   }
 ]

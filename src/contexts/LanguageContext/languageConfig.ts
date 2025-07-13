@@ -14,6 +14,8 @@ export const SUPPORTED_LANGUAGES: Record<string, LanguageConfig> = {
   id: { code: 'id', name: 'Indonesian', nativeName: 'Bahasa Indonesia', dir: 'ltr' },
   tr: { code: 'tr', name: 'Turkish', nativeName: 'Türkçe', dir: 'ltr' },
   ur: { code: 'ur', name: 'Urdu', nativeName: 'اردو', dir: 'rtl' },
+  ru: { code: 'ru', name: 'Russian', nativeName: 'Русский', dir: 'ltr' },
+  zh: { code: 'zh', name: 'Chinese', nativeName: '中文', dir: 'ltr' },
 };
 
 export type Language = keyof typeof SUPPORTED_LANGUAGES;
@@ -289,6 +291,74 @@ export const translations = {
       'ان لوگوں سے اقتصادی حمایت واپس لینا ہماری اخلاقی ذمہ داری ہے جو ظلم، استحصال، اور انسانی حقوق کی خلاف ورزیوں میں مدد کرتے ہیں۔',
     allCategories: 'تمام زمرے',
     productsCount: 'مصنوعات',
+  },
+  ru: {
+    siteName: 'Якин Бойкот',
+    siteSlogan: 'Этический бойкот, поддержка наших братьев',
+    menuTitle: 'Меню',
+    toggleLanguage: 'Русский',
+    searchPlaceholder: 'Поиск продукта',
+    productName: 'Название продукта',
+    countryOfOrigin: 'Страна происхождения',
+    alternatives: 'Альтернативы',
+    noAlternatives: 'Пока нет доступных альтернатив',
+    loading: 'Загрузка...',
+    error: 'Ошибка загрузки данных',
+    pageNotFound: 'Упс! Страница не найдена',
+    backHome: 'Вернуться на главную',
+    introText: 'Платформа, помогающая вам находить этические альтернативы израильским и американским продуктам.',
+    copyright: 'Якин Бойкот. Все права защищены.',
+    whyBoycott: 'Почему бойкот?',
+    products: 'Продукты',
+    backToProducts: 'Назад к продуктам',
+    whyBoycottSubtitle1: 'Почему мы бойкотируем?',
+    whyBoycottParagraph1:
+      'Бойкот — это мощный способ использовать нашу потребительскую силу, чтобы заставить злоупотребляющие организации менять свою политику.',
+    whyBoycottSubtitle2: 'Какой эффект?',
+    whyBoycottParagraph2:
+      'Коллективный бойкот потребителей может повлиять на финансовое состояние компаний и изменить их поведение.',
+    whyBoycottSubtitle3: 'Как работает бойкот?',
+    whyBoycottParagraph3:
+      'Мы проявляем нашу экономическую силу, не покупая товары и услуги компаний и поддерживая этические альтернативы.',
+    whyBoycottSubtitle4: 'Почему этот бойкот?',
+    whyBoycottParagraph4:
+      'Наш моральный долг — лишить экономической поддержки тех, кто способствует несправедливости, угнетению и нарушению прав человека.',
+    allCategories: 'Все категории',
+    productsCount: 'продуктов',
+  },
+  zh: {
+    siteName: 'Yaqiin 抵制',
+    siteSlogan: '道德抵制，支持我们的兄弟',
+    menuTitle: '菜单',
+    toggleLanguage: '中文',
+    searchPlaceholder: '搜索产品',
+    productName: '产品名称',
+    countryOfOrigin: '原产国',
+    alternatives: '替代品',
+    noAlternatives: '暂无可用替代品',
+    loading: '加载中...',
+    error: '数据加载出错',
+    pageNotFound: '哎呀！页面未找到',
+    backHome: '返回首页',
+    introText: '一个帮助您发现以色列和美国产品道德替代品的平台。',
+    copyright: 'Yaqiin 抵制。保留所有权利。',
+    whyBoycott: '为什么抵制？',
+    products: '产品',
+    backToProducts: '返回产品',
+    whyBoycottSubtitle1: '我们为什么要抵制？',
+    whyBoycottParagraph1:
+      '抵制是一种强有力的方式，利用我们的消费者力量迫使滥用权力的机构改变其政策。',
+    whyBoycottSubtitle2: '有什么影响？',
+    whyBoycottParagraph2:
+      '集体消费者抵制可以影响公司的财务状况，并改变企业行为。',
+    whyBoycottSubtitle3: '抵制如何运作？',
+    whyBoycottParagraph3:
+      '我们通过不购买公司的产品和服务并支持道德替代品来行使我们的经济力量。',
+    whyBoycottSubtitle4: '为什么要发起这个抵制？',
+    whyBoycottParagraph4:
+      '道义上我们有责任撤回对助长不公、压迫和侵犯人权者的经济支持。',
+    allCategories: '所有类别',
+    productsCount: '产品',
   },
 };
 
